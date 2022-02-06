@@ -120,6 +120,10 @@
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
 				<p>Click to see the source</p>
 				<button class="button button1">Green</button>
+				
+				<form action="https://google.com">
+				    <input type="submit" value="Go to Google" />
+				</form>
 			</div>
 		</div>
 	</foreignObject>
