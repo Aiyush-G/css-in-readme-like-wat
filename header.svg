@@ -124,6 +124,8 @@
 				<form action="https://google.com">
 				    <input type="submit" value="Go to Google" />
 				</form>
+				
+				<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
 			</div>
 		</div>
 	</foreignObject>
